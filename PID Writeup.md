@@ -1,16 +1,12 @@
 ﻿Writeup Report
 
 PID Controller Project
-(Note - Hi , The visualization for the simulator on my machine is available at - https://youtu.be/UUwrmQ3Z-GM)
-The goals / steps of this project are the following:
-Tune the PID controller hyperparameters.
-Test the result on the simulator.
-Play around with the throttle.
-Rubric Points
-Here I will consider the rubric points individually and describe how I addressed each point in my implementation.
+(Note - Hi , The visualization for the simulator on my machine is available at - https://youtu.be/UUwrmQ3Z-GM).
 
-Writeup / README
-1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. 
+The goals / steps of this project are the following:
+  1. Tune the PID controller hyperparameters.
+  2. Test the result on the simulator.
+  3. Play around with the throttle.
 
 ## PID Controller
 #### 1. Student describes the effect of the P, I, D component of the PID algorithm in their implementation.
